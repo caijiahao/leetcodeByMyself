@@ -1,18 +1,17 @@
-package 中等.组合总和39;
+package 中等.全排列46;
 
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        int[] candidates = {2,3,6,7};
-        int target = 7;
-        test(candidates, target);
+        int[] nums = {1,2,3};
+        test(nums);
     }
 
-    private static void test(int[] candidates, int target) {
+    private static void test(int[] candidates) {
         Solution solution = new Solution();
         long begin = System.currentTimeMillis();
-        List<List<Integer>> res = solution.combinationSum(candidates, target);
+        List<List<Integer>> res = solution.permute(candidates);
         long end = System.currentTimeMillis();
 
         System.out.println();

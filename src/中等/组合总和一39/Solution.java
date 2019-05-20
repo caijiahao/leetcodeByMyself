@@ -1,4 +1,4 @@
-package 中等.组合总和39;
+package 中等.组合总和一39;
 
 import java.util.ArrayList;
 import java.util.Arrays;
