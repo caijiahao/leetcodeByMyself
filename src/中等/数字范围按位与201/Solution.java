@@ -1,4 +1,4 @@
-package 中等.数字范围按位与;
+package 中等.数字范围按位与201;
 
 public class Solution {
     public int rangeBitwiseAnd(int m, int n) {
