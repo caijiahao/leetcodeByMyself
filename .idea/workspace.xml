@@ -2,27 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a578ee3-d60b-49dd-bceb-e20dcd355df6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/RLE迭代器900/RLEIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/两数相加二445/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/两数相加二445/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/四数相加二454/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/爱吃香蕉的珂珂875/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/目标和494/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/石子游戏877/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/简化路径/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/零钱兑换二518/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/中等/鸡蛋掉落887/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/LRU缓存机制146/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/二叉树的后序遍历145/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/二叉树的后序遍历145/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/接雨水42/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/最长连续序列128/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/柱状图中最大的矩形84/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/困难/滑动窗口最大值239/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/四数之和18/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/最长回文子串5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/猜数字大小二375/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/路径总和二113/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/路径总和二113/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中等/马在棋盘上的概率688/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/公交路线815/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/回文对336/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/完美矩形391/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/最低加油次数871/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/最大矩形85/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/困难/特殊的二进制序列761/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单/供暖气475/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单/同构字符串205/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单/最短无序连续子数组581/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/简单/缺失数字268/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,14 +34,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/困难/柱状图中最大的矩形84/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/中等/四数之和18/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+            <state relative-caret-position="285">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
-                <element signature="e#201#210#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,26 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/中等/解码方法91/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/反转链表二92/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/反转链表二92/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的中序遍历94/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的中序遍历94/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的层次遍历102/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的层次遍历102/Main.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的层次遍历102/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的锯齿形层次遍历103/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的锯齿形层次遍历103/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/单词拆分139/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的前序遍历144/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的前序遍历144/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/逆波兰表达式求职150/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/逆波兰表达式求职150/Main.java" />
-        <option value="$PROJECT_DIR$/src/中等/乘积最大子序列/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的右视图199/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/中等/二叉树的右视图199/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/数字范围按位与/Solution.java" />
-        <option value="$PROJECT_DIR$/src/中等/实现Trie208/Trie.java" />
         <option value="$PROJECT_DIR$/src/中等/长度最小的子数组209/Solution.java" />
         <option value="$PROJECT_DIR$/src/中等/二叉树的最近公共祖先236/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/中等/二叉树的最近公共祖先236/Solution.java" />
@@ -111,16 +90,37 @@
         <option value="$PROJECT_DIR$/src/困难/二叉树的后序遍历145/Solution.java" />
         <option value="$PROJECT_DIR$/src/困难/LRU缓存机制146/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/困难/滑动窗口最大值239/Solution.java" />
-        <option value="$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java" />
         <option value="$PROJECT_DIR$/src/中等/简化路径/Solution.java" />
         <option value="$PROJECT_DIR$/src/困难/柱状图中最大的矩形84/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/最大矩形85/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/最长回文子串/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/最长回文子串5/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/特殊的二进制序列761/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/Solution.java" />
+        <option value="$PROJECT_DIR$/src/简单/缺失数字268/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/回文对336/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/最低加油次数871/Solution.java" />
+        <option value="$PROJECT_DIR$/src/简单/最短无序连续子数组/Solution.java" />
+        <option value="$PROJECT_DIR$/src/简单/最短无序连续子数组581/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/路径总和二113/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/中等/路径总和二113/Solution.java" />
+        <option value="$PROJECT_DIR$/src/简单/同构字符串205/Solution.java" />
+        <option value="$PROJECT_DIR$/src/简单/供暖气475/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/公交路线815/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java" />
+        <option value="$PROJECT_DIR$/src/中等/马在棋盘上的概率688/Solution.java" />
+        <option value="$PROJECT_DIR$/src/困难/完美矩形391/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/猜数字大小二375/Solution.java" />
+        <option value="$PROJECT_DIR$/src/中等/四数之和18/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="970" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="267" />
+    <option name="y" value="95" />
     <option name="width" value="920" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,7 +129,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,19 +145,13 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="困难" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="困难" type="462c0819:PsiDirectoryNode" />
-              <item name="柱状图中最大的矩形84" type="462c0819:PsiDirectoryNode" />
+              <item name="中等" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,6 +159,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,20 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="中等.子集78.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="中等.子集78.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="中等.逆波兰表达式求职150.Main" />
       <module name="leetcode" />
@@ -232,6 +213,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="困难.公交路线815.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="困难.公交路线815.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="中等.子集二90.Solution" />
       <module name="leetcode" />
@@ -258,20 +252,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Solution (2)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +285,12 @@
       <workItem from="1559272577829" duration="6933000" />
       <workItem from="1559294552786" duration="5002000" />
       <workItem from="1559634481584" duration="6265000" />
-      <workItem from="1559786644294" duration="8317000" />
+      <workItem from="1559786644294" duration="9232000" />
+      <workItem from="1559978798694" duration="1369000" />
+      <workItem from="1559980203051" duration="1824000" />
+      <workItem from="1559982084070" duration="3638000" />
+      <workItem from="1560047376773" duration="12741000" />
+      <workItem from="1560394169680" duration="11198000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1558087296040</created>
@@ -353,17 +341,23 @@
       <option name="project" value="LOCAL" />
       <updated>1559123779411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新增：900、RLE迭代器；445、两数相加；454、四数相加；875、爱吃香蕉的珂珂；494、目标和；877、石子游戏；71、简化路径；518、零钱兑换二；887、鸡蛋掉落；146、LRU缓存机制；145、二叉树的后序遍历；42、接雨水；265、数据流的中位数；128、最长连续序列；84、柱状图中最大的矩形；239、滑动窗口最大值；">
+      <created>1559813086725</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559813086725</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109736000" />
+    <option name="totallyTimeSpent" value="141421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="776" y="0" width="736" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31858408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12868632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,7 +366,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48820058" weight="0.3037249" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48820058" visible="true" weight="0.30311614" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4941003" weight="0.31547618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +376,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5117994" side_tool="true" weight="0.30505952" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,188 +431,10 @@
     <MESSAGE value="新增：94、二叉树的中序遍历；102、二叉树的层次遍历；103、二叉树的锯齿形层次遍历；139、单词拆分；92、反转链表；90、子集二；91、解码方法" />
     <MESSAGE value="新增：152、乘积最大子序列；144、二叉树的前序遍历；199、二叉树的右视图；236、二叉树的最近公共祖先；208、实现Trie；201、数字范围按位与；150、你波兰表达式求职；209、长度最小的子数组" />
     <MESSAGE value="新增：416、分割等和子集；328、奇偶链表；279、完全平方数；240、搜索二维矩阵二；201、数字范围按位与；309、最佳买卖股票时机含冷冻期；334、递增的三元子序列；238、除自身以外数组的乘积；322、零钱兑换；" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增：416、分割等和子集；328、奇偶链表；279、完全平方数；240、搜索二维矩阵二；201、数字范围按位与；309、最佳买卖股票时机含冷冻期；334、递增的三元子序列；238、除自身以外数组的乘积；322、零钱兑换；" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/简单/合并两个有序数组88/Solution.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/中等/无重复字符的最长子串03/Solution.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/中等/组合总和一39/Main.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/中等/组合总数二40/Main.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/中等/全排列46/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/中等/子集78/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="新增：900、RLE迭代器；445、两数相加；454、四数相加；875、爱吃香蕉的珂珂；494、目标和；877、石子游戏；71、简化路径；518、零钱兑换二；887、鸡蛋掉落；146、LRU缓存机制；145、二叉树的后序遍历；42、接雨水；265、数据流的中位数；128、最长连续序列；84、柱状图中最大的矩形；239、滑动窗口最大值；" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增：900、RLE迭代器；445、两数相加；454、四数相加；875、爱吃香蕉的珂珂；494、目标和；877、石子游戏；71、简化路径；518、零钱兑换二；887、鸡蛋掉落；146、LRU缓存机制；145、二叉树的后序遍历；42、接雨水；265、数据流的中位数；128、最长连续序列；84、柱状图中最大的矩形；239、滑动窗口最大值；" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/中等/反转链表二92/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="40" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/反转链表二92/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的中序遍历94/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的层次遍历102/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的层次遍历102/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的锯齿形层次遍历103/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的锯齿形层次遍历103/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="43" column="22" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="43" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/单词拆分139/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="23" selection-start-line="7" selection-start-column="8" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的中序遍历94/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的前序遍历144/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的前序遍历144/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/逆波兰表达式求职150/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/逆波兰表达式求职150/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/乘积最大子序列152/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的右视图199/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的层次遍历102/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#493#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/二叉树的右视图199/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#471#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/中等/数字范围按位与201/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/中等/实现Trie208/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -847,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="41" column="51" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="41" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/中等/简化路径/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -866,10 +676,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/困难/柱状图中最大的矩形84/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        <state relative-caret-position="380">
+          <caret line="20" column="25" selection-start-line="6" selection-start-column="10" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/困难/最大矩形85/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/中等/最长回文子串5/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/困难/特殊的二进制序列761/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding>
-            <element signature="e#201#210#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/中等/先序遍历构造二叉树1008/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/简单/缺失数字268/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/困难/回文对336/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/困难/最低加油次数871/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/简单/最短无序连续子数组581/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/中等/路径总和二113/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/中等/路径总和二113/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/简单/同构字符串205/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/简单/供暖气475/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/困难/数据流的中位数295/MedianFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/中等/马在棋盘上的概率688/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/困难/公交路线815/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="45" column="18" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#298#321#0" expanded="true" />
+            <element signature="e#569#578#0" expanded="true" />
+            <element signature="e#620#629#0" expanded="true" />
+            <element signature="e#818#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/困难/完美矩形391/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#367#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/中等/猜数字大小二375/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/中等/四数之和18/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

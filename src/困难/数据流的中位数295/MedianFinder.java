@@ -9,7 +9,7 @@ public class MedianFinder {
     //容量
     private int size;
     //维护较小元素的最大堆
-    private PriorityQueue<Integer> maxPQ = new PriorityQueue<>((a,b))
+    //private PriorityQueue<Integer> maxPQ = new PriorityQueue<>((a,b))
     public MedianFinder() {
 
     }
@@ -19,6 +19,6 @@ public class MedianFinder {
     }
 
     public double findMedian() {
-
+      return 0;
     }
 }
